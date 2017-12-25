@@ -1,7 +1,41 @@
 # Documentation
 Documentation of CuboHub
 
-## User
+## Install
+
+1. Go https://github.com/apps/cubohub
+
+2. Click in "Install"
+![image](https://user-images.githubusercontent.com/5731176/34342379-5b065fc2-e995-11e7-87aa-99d1e01f1730.png)
+
+3. Select the user/org
+![image](https://user-images.githubusercontent.com/5731176/34342390-be540214-e995-11e7-87af-1474c738e227.png)
+
+4. Click in "Install"
+![image](https://user-images.githubusercontent.com/5731176/34342402-4450e846-e996-11e7-9aa4-27c3aa19cc7c.png)
+
+5. Create a new README.md
+
+6. Create a new file .cubohub.yml
+
+Example File
+```yml
+title: MyRepo
+template: Elate
+readme: README.md
+language: HTML
+description: MY DESCRIPTION
+links:
+  Github: https://github.com/MyUser/MyRepo
+```
+![image](https://user-images.githubusercontent.com/5731176/34342444-510ffc06-e997-11e7-94d8-19f645d06a79.png)
+
+7. Um index.html foi criado com seu site
+
+
+----
+
+## More Details
 1. Example File: [CuboHub.yml](https://github.com/CuboHub/Elate-theme/blob/master/cubohub.yml)
 ```yml
 title: Elate Theme
