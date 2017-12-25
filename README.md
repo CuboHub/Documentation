@@ -46,6 +46,7 @@ description | Project description | repo.description |
 language | Project language | repo.language |
 config.size | Project size | repo.size |
 seo | Sub-parameter, see 3. SEO | null |
+gitauthor | Sub-parameter, see 4. Gitauthor | null |
 branch | Commiter branch | "master" |
 cmessage | Commiter message | "Update GitHub Page: {DateNow}" |
 
@@ -61,3 +62,10 @@ description |
 keywords |
 image |
 twitter_card |
+
+5. Gitauthor
+
+Parameter |
+--------- |
+name |
+email |
